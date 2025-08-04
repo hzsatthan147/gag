@@ -1,6 +1,6 @@
 script_key="GMyqZfwglsTgGOMQwEcdfTFNjOvRZhQc";
 setfpscap(3)
-
+task.wait(10)
 getgenv().gagConfig = {
     -- Event:
     CRAFT_EVENT = { "Anti Bee Egg", "Lightning Rod" },
