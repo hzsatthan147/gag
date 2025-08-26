@@ -200,6 +200,10 @@ getgenv().ConfigsKaitun = {
 			"Mimic Octopus",
 			"Red Fox",
 			"Blood Owl",
+			"Green Bean",
+			"Lemon Lion",
+			"Apple Gazelle",
+			"Chicken Zombie",
 			["Starfish"] = 10,
 		},
 		LockPet_Weight = 7, -- if Weight >= 10 they will locked
